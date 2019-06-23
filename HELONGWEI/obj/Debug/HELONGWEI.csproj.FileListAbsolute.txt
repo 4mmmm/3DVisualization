@@ -1,0 +1,7 @@
+E:\程序设计实践\HELONGWEI\HELONGWEI\bin\Debug\HELONGWEI.exe.config
+E:\程序设计实践\HELONGWEI\HELONGWEI\bin\Debug\HELONGWEI.exe
+E:\程序设计实践\HELONGWEI\HELONGWEI\bin\Debug\HELONGWEI.pdb
+E:\程序设计实践\HELONGWEI\HELONGWEI\obj\Debug\HELONGWEI.csprojAssemblyReference.cache
+E:\程序设计实践\HELONGWEI\HELONGWEI\obj\Debug\HELONGWEI.csproj.CoreCompileInputs.cache
+E:\程序设计实践\HELONGWEI\HELONGWEI\obj\Debug\HELONGWEI.exe
+E:\程序设计实践\HELONGWEI\HELONGWEI\obj\Debug\HELONGWEI.pdb
